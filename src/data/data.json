@@ -1,0 +1,815 @@
+
+{
+    "COMERCIOS": [
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "SUNA CORRALON",
+        "RAZON SOCIAL": "RODRIGO ALEJANDRO BERMUDEZ",
+        "CALLE": "AVENIDA 1",
+        "localizacion":"https://www.google.com/maps/place/Corralón+Suna/@-34.6605361,-59.4216209,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc73ac89a08067:0xfb6db3f30d8be2ef!8m2!3d-34.6605361!4d-59.4194322",
+        "TELEFONO": "2324-535550",
+        "Nº": "152"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "PICONE HNOS",
+        "RAZON SOCIAL": "FERNANDO M PICONE",
+        "CALLE": "CALLE 11 ENTRE 2 Y 102",
+        "localizacion": "https://www.google.com/maps/place/Corral%C3%B3n+de+Materiales+Picone+Hnos./@-34.6623584,-59.4280351,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x65fa2679b41eede8!8m2!3d-34.6623584!4d-59.4258464",
+        "TELEFONO": "2324-423002",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "LOS ABUELOS",
+        "RAZON SOCIAL": "CAPUTO MIGUEL ANGEL",
+        "CALLE": "CALLE 22 BIS ESQUINA 115 SN",
+        "localizacion": "https://www.google.com/maps/place/Corralon+los+abuelos/@-34.657149,-59.4112636,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x89c038ad625e756d!8m2!3d-34.657149!4d-59.4090749",
+        "TELEFONO": "2324-424377",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON RIJAVEC",
+        "RAZON SOCIAL": "RIJAVEC LUIS Y RIJAVEC  S",
+        "CALLE": "CALLE 31 y 114",
+        "localizacion":"https://www.google.com/maps?cid=6240122848501043748",
+        "TELEFONO": "2324-425731",
+        "Nº": "675"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "DEAMAIO SA",
+        "RAZON SOCIAL": "DEMAIO SA",
+        "CALLE": "CALLE 29 ENTRE 6 Y 4",
+        "localizacion":"https://www.google.com/maps?cid=15986357633786574897",
+        "TELEFONO": "2324-432432",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON MERCEDES",
+        "RAZON SOCIAL": "GROSSO MELINA LORENA",
+        "CALLE": "CALLE 40",
+        "TELEFONO": "2324-433740",
+        "localizacion":"https://www.google.com/maps/place/Corralon+de+Materiales+Mercedes/@-34.6478006,-59.4168292,17z/data=!4m5!3m4!1s0x0:0x7d8ee67e9e02e92d!8m2!3d-34.6478006!4d-59.4146405",
+        "Nº": "3074"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON LA FAMILIA",
+        "RAZON SOCIAL": "MACHICOTE IVAN DANIEL",
+        "CALLE": "ACCESO SUR ENTRE 122 Y 124",
+        "localizacion":"https://www.google.com/maps/place/Electronica+Bianchi/@-34.6487971,-59.419865,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x69158da318afbea8!8m2!3d-34.6487971!4d-59.4176763",
+        "TELEFONO": "2324-589839",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON JUAN MANUEL",
+        "RAZON SOCIAL": "CAGNONE MARTIN",
+        "CALLE": "CALLE 101",
+        "localizacion":"https://www.google.com/maps/place/corral%C3%B3n+Juan+Manuel/@-34.6643995,-59.4199395,17z/data=!4m12!1m6!3m5!1s0x95bc73bcb60f929f:0xfd9c7af5321d1b00!2scorral%C3%B3n+Juan+Manuel!8m2!3d-34.6643191!4d-59.4199954!3m4!1s0x95bc73bcb60f929f:0xfd9c7af5321d1b00!8m2!3d-34.6643191!4d-59.4199954",
+        "TELEFONO": "2324-420595",
+        "Nº": "3063"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON SUR",
+        "RAZON SOCIAL": "ECHAVE SILVIO EDUARDO",
+        "CALLE": "ACCESO SUR ENTRE 110 Y 112",
+        "localizacion":"https://www.google.com/maps/place/Sur+corralon+de+materiales/@-34.6636443,-59.4393631,18.36z/data=!4m19!1m13!4m12!1m4!2m2!1d-59.4375532!2d-34.6452164!4e1!1m6!1m2!1s0x95bc735f65b8a8ff:0xdf578681f8e8aa2d!2scorralon+sur+mercedes+bsas!2m2!1d-59.4385967!2d-34.663898!3m4!1s0x95bc735f65b8a8ff:0xdf578681f8e8aa2d!8m2!3d-34.663898!4d-59.4385967",
+        "TELEFONO": "2324693260",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "CORRALON BABORE",
+        "RAZON SOCIAL": "BABORE CLAUDIO",
+        "CALLE": "CALLE 24 Y 113",
+        "localizacion":"https://www.google.com/maps/place/Corralon+Babore/@-34.6547896,-59.4117242,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xeb39040d47899913!8m2!3d-34.6547896!4d-59.4095355",
+        "TELEFONO": "2324-423400",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "CORRALON",
+        "NOMBRE": "ACHILLI MOVIMIENTOS DE SU",
+        "RAZON SOCIAL": "ACHILLI FRANCO JOSE",
+        "CALLE": "ACCESO MANUEL SAN MARTIN",
+        "localizacion":"https://www.google.com/maps/place/ACHILLI+-+Movimientos+de+suelos/@-34.6692366,-59.4588703,14z/data=!3m1!4b1!4m5!3m4!1s0x0:0x6d67daa94d25240e!8m2!3d-34.6692379!4d-59.4413607",
+        "TELEFONO": "2324-426886",
+        "Nº": "01"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "T F MUSTONI SH",
+        "RAZON SOCIAL": "MUSTONI HECTOR",
+        "CALLE": "CALLE 27",
+        "localizacion": "https://www.google.com/maps/place/T.F.+Mustoni+Maquinarias/@-34.6631406,-59.4228456,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc5e8f21a03a7ce3!8m2!3d-34.6631406!4d-59.4206569",
+        "TELEFONO": "2324-433438",
+        "Nº": "498"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "NARBONA STEELS",
+        "RAZON SOCIAL": "NARBONA STEELS SA EN FORM",
+        "CALLE": "CALLE 24",
+        "localizacion":"https://www.google.com/maps/place/C.+24+391,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6521816,-59.428568,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc737554b385e9:0xbe9569cb8469ac9e!8m2!3d-34.6521816!4d-59.4263793",
+        "TELEFONO": "-",
+        "Nº": "391"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERRETERIA COLMEIRO SH",
+        "RAZON SOCIAL": "FERRETERIA COLMEIRO SH",
+        "CALLE": "CALLE 30 ESQUINA 19",
+        "localizacion": "https://www.google.com/maps/place/Colmeiro+Ferreteria/@-34.6496949,-59.4293351,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xb987a0c60ccb4433!8m2!3d-34.6496628!4d-59.4271382",
+        "TELEFONO": "2324-500675",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "CASA POZZI",
+        "RAZON SOCIAL": "POZZI RICARDO JORGE Y POZZI MARTIN",
+        "CALLE": "CALLE 30  BIS ENTRE 1 Y 3",
+        "localizacion": "https://www.google.com/maps/place/Casa+Pozzi+Ferreter%C3%ADa/@-34.6499187,-59.4200896,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x498022f2b66b9113!8m2!3d-34.6499187!4d-59.4179009",
+        "TELEFONO": "2324-428181",
+        "Nº": "042"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "PROTEC-EMPRENDIMENTOS",
+        "RAZON SOCIAL": "EMPRENDIMIENTOS EYP SRL",
+        "CALLE": "CALLE 14",
+        "localizacion":"https://www.google.com/maps?client=safari&rls=en&q=MR+Mercedes+Rodamientos+de+Emprendimientos+EyP+SRL&biw=982&bih=1166&dpr=1&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj8jOOE24v0AhUFI7kGHX5OBbcQ_AUoBHoECAEQBg",
+        "TELEFONO": "2324-428188",
+        "Nº": "596"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "OXI MERCEDES",
+        "RAZON SOCIAL": "PONTON OSCAR DANIEL",
+        "CALLE": "CALLE 31 ",
+        "localizacion": "https://www.google.com/maps/place/Oxi-Mercedes+S.A./@-34.6548571,-59.4343447,19.39z/data=!4m5!3m4!1s0x0:0xcaf964673d8dba45!8m2!3d-34.6548004!4d-59.4339508",
+        "TELEFONO": "2324-424975",
+        "Nº": "278"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "PETRO GAS MERCEDES SA",
+        "RAZON SOCIAL": "PETRO GAS MERCEDES SA",
+        "CALLE": "ACCSESO SUR Y 116",
+        "localizacion":"https://www.google.com/maps/place/PETROGAS+MERCEDES/@-34.6671148,-59.4421003,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc7362cb05bce9:0xe4ec21584a42f36a!8m2!3d-34.6671148!4d-59.4399116",
+        "TELEFONO": "2324-431117",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "LAS MARIAS",
+        "RAZON SOCIAL": "MARIA LUJAN OLIVA",
+        "CALLE": "CALLE 41",
+        "TELEFONO": "2324-470744",
+        "localizacion": "https://www.google.com/maps/place/C.+41+367,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6523298,-59.4414834,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc736dbc2c43c3:0x124200d595b2f9cc!8m2!3d-34.6523298!4d-59.4392947",
+        "Nº": "367"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "RUSSI NILDA MERCEDES",
+        "RAZON SOCIAL": "RUSSI NILDA",
+        "CALLE": "CALLE 47 ESQUINA 22",
+        "localizacion":"https://www.google.com/maps/place/C.+47+524,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6494707,-59.4440679,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc736edd5f5ac9:0xbd099e01ecf13709!8m2!3d-34.6494707!4d-59.4418792",
+        "TELEFONO": "2324551549",
+        "Nº": "524"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERREHOGAR SAN SOF",
+        "RAZON SOCIAL": "DEMATEI SUSANA BEATRIZ",
+        "CALLE": "CALLE 12 ENTRE 9 Y 11",
+        "localizacion":"https://www.google.com/maps/place/Ferrehogar+San-Sof/@-34.6575725,-59.4265506,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x6f4fded139d40bc3!8m2!3d-34.6575725!4d-59.4243619",
+        "TELEFONO": "2324525511",
+        "Nº": "229"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERRETERIA SAN JOSE",
+        "RAZON SOCIAL": "FREGOSSI DORA MABEL",
+        "CALLE": "CALLE 19",
+        "localizacion":"https://www.google.com/maps/place/Ferreteria+San+Jose/@-34.6387745,-59.4271782,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa29808b68fc929c5!8m2!3d-34.6387745!4d-59.4249895",
+        "TELEFONO": "2324-425833",
+        "Nº": "1240"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FORRAJERIA POYI",
+        "RAZON SOCIAL": "POGGIO  ARIEL MARIO",
+        "CALLE": "CALLE 35 ESQUINA 2",
+        "localizacion":"https://www.google.com/maps/place/Forrajer%C3%ADa+Poyi/@-34.6595664,-59.440062,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xcb7ce891662f166e!8m2!3d-34.6595664!4d-59.4378733",
+        "TELEFONO": "2324687903",
+        "Nº": "13"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "CASA MOLERES",
+        "RAZON SOCIAL": "MOLERES GUSTAVO JOSE DANIEL",
+        "CALLE": "CALLE 14 ENTRE 27 Y 29",
+        "localizacion":"https://www.google.com/maps/place/Casa+Moleres/@-34.6550599,-59.4324824,17z/data=!4m12!1m6!3m5!1s0x0:0xb6dc90977a69b8e1!2sCasa+Moleres!8m2!3d-34.6549629!4d-59.432454!3m4!1s0x0:0xb6dc90977a69b8e1!8m2!3d-34.6549629!4d-59.432454",
+        "TELEFONO": "2324-422046",
+        "Nº": "662"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERRETERIA GOWLAND",
+        "RAZON SOCIAL": "DI PASQUO SERGIO HERNAN",
+        "CALLE": "CALLE 509  CUARTEL 11",
+        "localizacion":"https://www.google.com/maps/place/Ferreter%C3%ADa+y+corral%C3%B3n+Gowland/@-34.6482599,-59.354004,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa609f841e9f7c749!8m2!3d-34.6482599!4d-59.3518153",
+        "TELEFONO": "2324-432023",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "RF MERCEDES",
+        "RAZON SOCIAL": "FRASCHERI ROBERTO OSCA",
+        "CALLE": "CALLE 23",
+        "localizacion":"https://www.google.com/maps/place/C.+23+303,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6553792,-59.4327687,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc730b6d2ded23:0x1576282e402aa167!8m2!3d-34.6553792!4d-59.43058",
+        "TELEFONO": "-",
+        "Nº": "303"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "TECNOAGRO",
+        "RAZON SOCIAL": "TREBINI MARCELO RAUL",
+        "CALLE": "AVENIDA 2 y 7",
+        "localizacion":"https://www.google.com/maps/place/Tecnoagro+-+Motosierras+Stihl/@-34.6624255,-59.4261349,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc67a5339f8d062e0!8m2!3d-34.6624255!4d-59.4239462",
+        "TELEFONO": "2324-433133",
+        "Nº": "155"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "EL METEORITO",
+        "RAZON SOCIAL": "RODOLFO VICTOR RICALDI",
+        "CALLE": "CALLE 1 ENTRE  20 Y 22 BIS",
+        "localizacion":"https://www.google.com/maps/place/Ferreteria+El+Meteorito/@-34.6564394,-59.4480768,14z/data=!4m9!1m2!2m1!1sEL+METEORITO+ferreteria!3m5!1s0x95bc73c5adf62eb7:0x21755b43acf3a7b!8m2!3d-34.6550521!4d-59.4181633!15sChdFTCBNRVRFT1JJVE8gZmVycmV0ZXJpYVoZIhdlbCBtZXRlb3JpdG8gZmVycmV0ZXJpYZIBDmhhcmR3YXJlX3N0b3Jl",
+        "TELEFONO": "2324699801",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERRETERIA BROCHERO",
+        "RAZON SOCIAL": "PIUMA  LUIS ANTONIO",
+        "CALLE": "CALLE 21",
+        "localizacion":"https://www.google.com/maps/place/C.+21+1375,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6369523,-59.4257216,15z/data=!4m13!1m7!3m6!1s0x95bc7381feb3ef1d:0x7564d61ac2df6b62!2sC.+21+1375,+Mercedes,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.6369201!4d-59.4258722!3m4!1s0x95bc7381feb3ef1d:0x7564d61ac2df6b62!8m2!3d-34.6369201!4d-59.4258722",
+        "TELEFONO": "2324-423762",
+        "Nº": "1375"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FOF",
+        "RAZON SOCIAL": "OMAR HECTOR FLORES",
+        "CALLE": "CALLE 47",
+        "localizacion":"https://www.google.com/maps/place/FOF+GROUP/@-34.6535065,-59.4449907,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x413c7146bc5f7d6c!8m2!3d-34.6535065!4d-59.442802",
+        "TELEFONO": "2324-591800",
+        "Nº": "266"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "INSA",
+        "RAZON SOCIAL": "BRADACZ JUAN DOMINGO",
+        "CALLE": "CALLE 19 ESQUINA 24",
+        "localizacion":"https://www.google.com/maps/place/C.+19+551,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6516818,-59.4298606,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc737538faf53d:0x47a5a24c8505d539!8m2!3d-34.6516818!4d-59.4276719",
+        "TELEFONO": "2324-422642",
+        "Nº": "551"
+      },
+      {
+        "RUBRO": "FERRETERIAS",
+        "NOMBRE": "FERRETERIA STOP",
+        "RAZON SOCIAL": "LEIVA RUBEN EDUARDO",
+        "CALLE": "CALLE 17",
+        "localizacion": "https://www.google.com/maps/place/Av.+17+28,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6606848,-59.4311611,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc7308feb95111:0x5ae08d438df78a6e!8m2!3d-34.6606848!4d-59.4289724",
+        "TELEFONO": "-",
+        "Nº": "28"
+      },
+      {
+        "RUBRO": "ZINGUERIA",
+        "NOMBRE": "CHAPAGOMA",
+        "RAZON SOCIAL": "REBAGLIATI RICCILLO SOCIE",
+        "localizacion": "https://www.google.com/maps/place/Casa+Rebagliati/@-34.6550689,-59.4343483,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xfb891b5ee3449db3!8m2!3d-34.6550689!4d-59.4321596",
+        "CALLE": "CALLE 27 ESQUINA 14",
+        "TELEFONO": "2324-420846",
+        "Nº": "300"
+      },
+      {
+        "RUBRO": "ZINGUERIA",
+        "NOMBRE": "PROTEC-MERCEDES",
+        "RAZON SOCIAL": "BULONERA MERCEDES",
+        "CALLE": "CALLE 27",
+        "localizacion":"https://www.google.com/maps/place/BULONERA+MERCEDES/@-34.655879,-59.4346887,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xe0f63c05f1b9e3fb!8m2!3d-34.655879!4d-59.4325",
+        "TELEFONO": "2324-421941",
+        "Nº": "257"
+      },
+      {
+        "RUBRO": "ZINGUERIA",
+        "NOMBRE": "ZINGUERIA MERCEDES",
+        "RAZON SOCIAL": "PANESSI LUCIANO GERMAN",
+        "CALLE": "CALLE 101 ENTRE 30 Y 30 BIS",
+        "localizacion":"https://www.google.com/maps/place/Zingueria+Mercedes/@-34.6501146,-59.4180461,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xf140912b5468cc9e!8m2!3d-34.6501146!4d-59.4158574",
+        "TELEFONO": "2324-424216",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "ZINGUERIA",
+        "NOMBRE": "ZINGUERIA MONTERO",
+        "RAZON SOCIAL": "MIGUEL ERNESTO MONTERO",
+        "CALLE": "CALLE 12",
+        "localizacion":"https://www.google.com/maps/place/Zingueria+Montero/@-34.6538628,-59.4459561,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x50e93b8e68e42516!8m2!3d-34.6538628!4d-59.4437674",
+        "TELEFONO": "2324-461145",
+        "Nº": "1183"
+      },
+      {
+        "RUBRO": "ZINGUERIA",
+        "NOMBRE": "HIERROS MERCEDES",
+        "RAZON SOCIAL": "UNGARO LEONARDO ROBERTO",
+        "CALLE": "CALLE 20 ENTRE 49 bis y 47",
+        "localizacion":"https://www.google.com/maps/place/Hierros+Mercedes/@-34.6501916,-59.4452488,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc736ec994cca7:0x5c2f6739ec370514!8m2!3d-34.6501916!4d-59.4430601",
+        "TELEFONO": "2324-433955",
+        "Nº": "1178"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "COLORIN - IMPACTO COLOR S",
+        "RAZON SOCIAL": "COLORIN IMSSA",
+        "CALLE": "AVENIDA 29",
+        "localizacion": "https://www.google.com/maps/place/Pinturer%C3%ADa+Impacto/@-34.6585809,-59.4365964,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x35dc44f463d5010e!8m2!3d-34.6585809!4d-59.4344077",
+        "TELEFONO": "2324-460117",
+        "Nº": "87"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "PINTURERIAS DEL CENTRO",
+        "RAZON SOCIAL": "CENTRO LOBOS PINTURAS S.A",
+        "CALLE": "AVENIDA 29 ESQUINA 24",
+        "localizacion": "https://www.google.com/maps/place/Pintureria+Del+Centro+Mercedes+ALBA/@-34.6503755,-59.4327438,18.57z/data=!4m5!3m4!1s0x0:0xe1fea9e23e425dce!8m2!3d-34.6509228!4d-59.4320333",
+        "TELEFONO": "2227-445313",
+        "Nº": "01"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "RESIMAX SA",
+        "RAZON SOCIAL": "REXIMAX SA",
+        "CALLE": "AVENIDA 30",
+        "localizacion":"https://www.google.com/maps/place/C.+30+55,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6509182,-59.4206139,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc73a21376073f:0x76a04b7c51f6750e!8m2!3d-34.6509182!4d-59.4184252",
+        "TELEFONO": "-",
+        "Nº": "55"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "TERSUAVE - CASA BASUALDO",
+        "RAZON SOCIAL": "BASUALDO LUIS PABLO",
+        "CALLE": "AVENIDA 30 ENTRE 3 Y 5",
+        "localizacion":"https://www.google.com/maps/place/Casa+Basualdo/@-34.651011,-59.4208716,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7261ff0e9e13a511!8m2!3d-34.651011!4d-59.4186829",
+        "TELEFONO": "-",
+        "Nº": "55"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "MONDELLO NUNCIO",
+        "RAZON SOCIAL": "MONDELLO NUNCIO",
+        "CALLE": "CALLE 16",
+        "localizacion":"https://www.google.com/maps/place/C.+16+538,+B6600HNL+Mercedes,+Provincia+de+Buenos+Aires/@-34.6544293,-59.4320095,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc730b3df03ca3:0xcb0ab718ee5c0fc!8m2!3d-34.6544293!4d-59.4298208",
+        "TELEFONO": "-",
+        "Nº": "538"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "HOGARPLAST",
+        "RAZON SOCIAL": "CARIDE FRANCISCO JAVIER",
+        "CALLE": "CALLE 27",
+        "localizacion":"https://www.google.com/maps/place/HogarPlast/@-34.654661,-59.4341217,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x44614f676c2eebc5!8m2!3d-34.654661!4d-59.431933",
+        "TELEFONO": "-",
+        "Nº": "330"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "VADEX SHOP MERCEDES",
+        "RAZON SOCIAL": "CHEMICZ ALEJANDRO CARLOS",
+        "CALLE": "AVENIDA 40",
+        "localizacion":"https://www.google.com/maps/place/Vadex+Shop+Mercedes+Pintureria/@-34.647816,-59.4173794,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x981d37f43446b143!8m2!3d-34.647816!4d-59.4151907",
+        "TELEFONO": "011-40373157",
+        "Nº": "3070"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "PINTURERIA SASIA",
+        "RAZON SOCIAL": "SASIA FERNANDO JAVIER",
+        "CALLE": "CALLE 12 Y 33",
+        "localizacion":"https://www.google.com/maps/place/C.+33+263,+B6600APC+Mercedes,+Provincia+de+Buenos+Aires/@-34.6553199,-59.4376587,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc730d3aa162bb:0xf482377961dce1e0!8m2!3d-34.6553199!4d-59.43547",  
+        "TELEFONO": "2324-433730",
+        "Nº": "263"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "EL PINTOR",
+        "RAZON SOCIAL": "LESCANO CARLOS DARIO",
+        "CALLE": "AVENIDA 40",
+        "localizacion":"https://www.google.com/maps/place/El+Pintor/@-34.6459284,-59.425409,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd23b5a8c2da04b4f!8m2!3d-34.6459284!4d-59.4232203",
+        "TELEFONO": "2324-434230",
+        "Nº": "325"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "PINTURERIA TODOCOLOR",
+        "RAZON SOCIAL": "COLICIGNO JORGE ALBERTO",
+        "CALLE": "CALLE 18 ENTRE 27 y 25",
+        "localizacion":"https://www.google.com/maps/place/Todo+Color+Pinturer%C3%ADa/@-34.6452099,-59.4366421,15z/data=!4m9!1m2!2m1!1sTodo+Color+Pinturer%C3%ADa!3m5!1s0x95bc7374ad3f279b:0x676b7a4b9c1fbec0!8m2!3d-34.6532841!4d-59.4310974!15sChZUb2RvIENvbG9yIFBpbnR1cmVyw61hWhgiFnRvZG8gY29sb3IgcGludHVyZXLDrWGSAQtwYWludF9zdG9yZQ",
+        "TELEFONO": "2324-424930",
+        "Nº": "214"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "PINTURERIA IMPACTO",
+        "RAZON SOCIAL": "VALERGA CARLOS ALBERTO",
+        "CALLE": "AVENIDA 17 y 22",
+        "localizacion":"https://www.google.com/maps/place/Impacto+Pinturer%C3%ADa/@-34.6528249,-59.4289166,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xefa328bca2ca3e69!8m2!3d-34.6528249!4d-59.4267279",
+        "TELEFONO": "2324-425042",
+        "Nº": "87"
+      },
+      {
+        "RUBRO": "PINTURERIA",
+        "NOMBRE": "PINTURERIA CROMO 16",
+        "RAZON SOCIAL": "INI HECTOR GABRIEL",
+        "CALLE": "CALLE 16 ENTRE 29 y 27",
+        "localizacion":"https://www.google.com/maps/place/Pinturer%C3%ADa+Cromo+16/@-34.6542199,-59.4346107,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x62b676ad70f25bb!8m2!3d-34.6542199!4d-59.432422",
+        "TELEFONO": "2324-431111",
+        "Nº": "683"
+      },
+      {
+        "RUBRO": "CONSTRUCTORA",
+        "NOMBRE": "CABFER CONSTRUCTORA",
+        "RAZON SOCIAL": "ARQDRY SOCIEDAD POR ACCIO",
+        "CALLE": "AVENIDA 17",
+        "localizacion":"https://www.google.com/maps/place/Av.+17+538,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6521912,-59.4287278,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc730ab299c695:0x3cc146f18ac02a9c!8m2!3d-34.6521912!4d-59.4265391",
+        "TELEFONO": "-",
+        "Nº": "538"
+      },
+      {
+        "RUBRO": "SANITARIOS",
+        "NOMBRE": "KONECTA SANITARIOS",
+        "RAZON SOCIAL": "DICATARINA F Y FITZSIMONS",
+        "CALLE": "AVENIDA 2",
+        "localizacion":"https://www.google.com/maps/place/KONECTA+SANITARIOS+Mercedes/@-34.5319948,-59.6171663,9z/data=!4m9!1m2!2m1!1sKONECTA+SANITARIOS!3m5!1s0x95bc733bfe323dbf:0x931abe71a30412ea!8m2!3d-34.6616027!4d-59.4280632!15sChJLT05FQ1RBIFNBTklUQVJJT1NaFCISa29uZWN0YSBzYW5pdGFyaW9zkgEUbWVkaWNhbF9zdXBwbHlfc3RvcmU",
+        "TELEFONO": "2324-590010",
+        "Nº": "333"
+      },
+      {
+        "RUBRO": "SANITARIOS",
+        "NOMBRE": "PASSARO SANITARIOS",
+        "RAZON SOCIAL": "PASSARO CLAUDIO E HIJOS S",
+        "CALLE": "CALLE 16 ENTRE 17 Y 19",
+        "localizacion": "https://www.google.com/maps/place/Passaro+Sanitarios/@-34.655038,-59.4300874,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x76d11855a86d31cd!8m2!3d-34.655038!4d-59.4278987",
+        "TELEFONO": "2324-424085",
+        "Nº": "415"
+      },
+      {
+        "RUBRO": "SANITARIOS",
+        "NOMBRE": "VASCO HOGAR",
+        "RAZON SOCIAL": "ELGORRIAGA, ELIANA",
+        "CALLE": "CALLE 23 ENTRE 24 Y 26",
+        "localizacion":"https://www.google.com/maps/place/Vasco+Hogar/@-34.6510022,-59.4316029,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xed45e836bed604c6!8m2!3d-34.6510022!4d-59.4294142",
+        "TELEFONO": "2324-435359",
+        "Nº": "575"
+      },
+      {
+        "RUBRO": "SANITARIOS",
+        "NOMBRE": "SANITARIOS LANDI",
+        "RAZON SOCIAL": "LANDI GERONIMO",
+        "CALLE": "CALLE 21 ENTRE 32 Y 34",
+        "localizacion":"https://www.google.com/maps/place/Landi+Sanitarios/@-34.6480626,-59.4297945,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xb53d5393da3bff24!8m2!3d-34.6480618!4d-59.4276107",
+        "TELEFONO": "2324-421710",
+        "Nº": "777"
+      },
+      {
+        "RUBRO": "SANITARIOS",
+        "NOMBRE": "CALVO",
+        "RAZON SOCIAL": "CALVO GUSTAVO A",
+        "CALLE": "CALLE 18",
+        "localizacion":"https://www.google.com/maps/place/Calvo/@-34.6533623,-59.4311912,17z/data=!4m12!1m6!3m5!1s0x0:0xfa06383c00ca0a29!2sCalvo!8m2!3d-34.6534014!4d-59.4312027!3m4!1s0x0:0xfa06383c00ca0a29!8m2!3d-34.6534014!4d-59.4312027",
+        "TELEFONO": "2324-548923",
+        "Nº": "631"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELECTRICIDAD ANSELMO",
+        "RAZON SOCIAL": "ELECTRICIDAD ANSELMO",
+        "CALLE": "CALLE 20 ENTRE 21 Y 19 ",
+        "localizacion": "https://www.google.com/maps/place/Anselmo+Electricidad/@-34.6530616,-59.4306806,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xf1cf87a2b98221dd!8m2!3d-34.6530616!4d-59.4284919",
+        "TELEFONO": "2324-427748",
+        "Nº": "478"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELEC-TRA MERCEDES SRL",
+        "RAZON SOCIAL": "ELEC-TRA MERCEDES SRL",
+        "CALLE": "AVENIDA 2",
+        "localizacion": "https://www.google.com/maps/place/Elec+Tra+Mercedes+SRL/@-34.661811,-59.4291301,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x1619e484f62585fe!8m2!3d-34.661811!4d-59.4269414",
+        "TELEFONO": "2324-433701",
+        "Nº": "281"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELECTRIC GAS",
+        "RAZON SOCIAL": "ZUNINO OSCAR HECTOR",
+        "CALLE": "CALLE 18 ENTRE 7 Y 9 ",
+        "localizacion":"https://www.google.com/maps/place/Elec+-+Tric+-+Gas/@-34.655101,-59.4245569,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x584a178f31c7b243!8m2!3d-34.655101!4d-59.4223682",
+        "TELEFONO": "2324-423995",
+        "Nº": "174"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELECTRONICA BIANCHI",
+        "RAZON SOCIAL": "BIANCHI AGUSTIN",
+        "CALLE": "CALLE 21 ENTRE 20 Y 22",
+        "localizacion":"https://www.google.com/maps/place/Electronica+Bianchi/@-34.6487971,-59.419865,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x69158da318afbea8!8m2!3d-34.6487971!4d-59.4176763",
+        "TELEFONO": "2324-650841",
+        "Nº": "478"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELECTROMERCEDES",
+        "RAZON SOCIAL": "SCHEUER    FACUNDO AGUSTI (sch group srl)",
+        "localizacion": "https://www.google.com/maps/place/Electro+Mercedes/@-34.6520322,-59.4357731,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7445ac03ccd94f13!8m2!3d-34.6520288!4d-59.4336021",
+        "CALLE": "CALLE 31 ESQUINA 20",
+        "TELEFONO": "2324-421240",
+        "Nº": "752"
+      },
+      {
+        "RUBRO": "ELECTRICIDAD",
+        "NOMBRE": "ELECTRO CENTRO",
+        "RAZON SOCIAL": "OLIVA RICARDO GABRIEL",
+        "CALLE": "CALLE 27 ENTRE 14 Y 16 ",
+        "localizacion":"https://www.google.com/maps/place/ELECTROCENTRO+(Oliva+Ricardo+Gabriel)/@-34.654736,-59.4341247,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9cace3c60c734d23!8m2!3d-34.654736!4d-59.431936",
+        "TELEFONO": "2324-432900",
+        "Nº": "324"
+      },
+      {
+        "RUBRO": "VIDRIERIAS",
+        "NOMBRE": "VIDRIOS MERCEDES SA",
+        "RAZON SOCIAL": "VIDRIOS MERCEDES SA",
+        "CALLE": "AVENIDA 2",
+        "localizacion": "https://www.google.com/maps/place/Vidrios+Mercedes/@-34.6648862,-59.4119376,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x5ea7eae6675d60e6!8m2!3d-34.6648862!4d-59.4097489",
+        "TELEFONO": "2324425083",
+        "Nº": "3527"
+      },
+      {
+        "RUBRO": "VIDRIERIAS",
+        "NOMBRE": "VIDRIERIA LOS TILOS",
+        "RAZON SOCIAL": "SOROF GASTON RICARDO",
+        "CALLE": "CALLE 11 SERAFINI MONS",
+        "localizacion":"https://www.google.com/maps/place/Vidrieria+los+Tilos+-+Proyecto+L%C3%A1ser+corte+y+grabado/@-34.6625289,-59.428058,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x96eb990c2d4eda41!8m2!3d-34.6625289!4d-59.4258693",
+        "TELEFONO": "2324-425587",
+        "Nº": "3029"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "ALMACIMA S.H.",
+        "RAZON SOCIAL": "ALMACIMA S.H.",
+        "CALLE": "AVENIDA DE LOS INMIGRANTES",
+        "localizacion": "https://www.google.com/maps/place/Al.ma.ci.mA+F%C3%A1brica+De+Aberturas+De+Aluminio/@-34.6636589,-59.4194648,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x5f3a512cb9596a7!8m2!3d-34.6636589!4d-59.4172761",
+        "TELEFONO": "2324-433643",
+        "Nº": "3174"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "JR ABERTURAS",
+        "RAZON SOCIAL": "DI SCIULLO JESSICA ROXANA",
+        "CALLE": "CALLE 20",
+        "localizacion": "https://www.google.com/maps/place/C.+20+377,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6535998,-59.4286766,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc730a98eede61:0x2275733e26b127a!8m2!3d-34.6535998!4d-59.4264879",
+        "TELEFONO": "-",
+        "Nº": "377"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "L VENTANERIE",
+        "RAZON SOCIAL": "MARIA LAURA CABRAL",
+        "CALLE": "CALLE 45 Y 4",
+        "localizacion":"https://www.google.com/maps/place/L%C2%B4Ventanerie/@-34.6575568,-59.4450957,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xb32228a5b25e8ce6!8m2!3d-34.6575568!4d-59.442907",
+        "TELEFONO": "2324-516922",
+        "Nº": "55"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "MTA ABERTURAS",
+        "RAZON SOCIAL": "POGGIO KARINA ELISABET",
+        "CALLE": "CALLE 28 ESQUINA 13",
+        "localizacion":"https://www.google.com/maps/place/C.+28+%26+C.+13,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6508889,-59.4262506,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc739f8fd2705f:0x70c8f8a6c9e968d8!8m2!3d-34.6508889!4d-59.4240619",
+        "TELEFONO": "-",
+        "Nº": "3429"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "CARP ALUMINIO BOSSIE",
+        "RAZON SOCIAL": "BOSSIE, ROBERTO ALFREDO",
+        "CALLE": "AVENIDA 2 Y 47",
+        "localizacion":"https://www.google.com/maps/place/Carpinteria+de+Aluminio+Bossie/@-34.6582724,-59.4466526,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc738ba9a40cd1:0xce6ab2005f56d79e!8m2!3d-34.6582724!4d-59.4444639",
+        "TELEFONO": "2324-432399",
+        "Nº": "1164"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "ABERTURAS VARESE",
+        "RAZON SOCIAL": "DE JESUS BERNARDO ALEJAND",
+        "CALLE": "CALLE 32 ENTRE 47 Y 45",
+        "localizacion":"https://www.google.com/maps/place/Aberturas+Varese/@-34.6461532,-59.4424808,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd8bec2dba21430df!8m2!3d-34.6461532!4d-59.4402921",
+        "TELEFONO": "1151085834",
+        "Nº": "1128"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "INEO ABERTURAS",
+        "RAZON SOCIAL": "EDUARDO DAVID OGNI",
+        "CALLE": "CALLE 14",
+        "localizacion":"https://www.google.com/maps/place/C.+14+1196,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6526357,-59.4460797,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc736bf5b9f485:0x404f70f0615f511c!8m2!3d-34.6526357!4d-59.443891",
+        "TELEFONO": "-",
+        "Nº": "1196"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "METALSUR",
+        "RAZON SOCIAL": "DELFINO CLAUDIO LEONEL",
+        "CALLE": "CALLE 114",
+        "localizacion":"https://www.google.com/maps/place/ALUMINIOS+METALSUR/@-34.6650994,-59.4406414,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x670ea402d35c22db!8m2!3d-34.6650994!4d-59.4384527",
+        "TELEFONO": "2324-687516",
+        "Nº": "723"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "M Y M",
+        "RAZON SOCIAL": "BASUALDO HECTOR MAURICIO",
+        "CALLE": "CALLE 10",
+        "localizacion":"https://www.google.com/maps/place/Mym+Aberturas+De+Aluminio/@-34.655299,-59.4533607,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xe9ba408a8604620b!8m2!3d-34.655299!4d-59.451172",
+        "TELEFONO": "2324-507311",
+        "Nº": "157"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "ABERTURAS BOSSIE",
+        "RAZON SOCIAL": "SOSA DELIA SUSANA",
+        "CALLE": "AVENIDA 2",
+        "localizacion":"https://www.google.com/maps/place/Carpinteria+de+Aluminio+Bossie/@-34.6582724,-59.4466526,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xce6ab2005f56d79e!8m2!3d-34.6582724!4d-59.4444639",
+        "TELEFONO": "2324-671534",
+        "Nº": "1164"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "CASA GARRIDO",
+        "RAZON SOCIAL": "GARRIDO GUSTAVO NORBERTO",
+        "CALLE": "CALLE 14 ENTRE 41 Y 43 ",
+        "localizacion":"https://www.google.com/maps/place/Casa+Garrido/@-34.653689,-59.4415706,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9ae046113d1b938a!8m2!3d-34.653689!4d-59.4393819",
+        "TELEFONO": "2324-420504",
+        "Nº": "990"
+      },
+      {
+        "RUBRO": "ABERTURAS",
+        "NOMBRE": "DEMERGASSO RUBEN OSCAR",
+        "RAZON SOCIAL": "DEMERGASSO RUBEN OSCAR",
+        "CALLE": "CALLE 36",
+        "localizacion":"https://www.google.com/maps/place/C.+36+804,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6454645,-59.435106,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc7370ea4a5ee9:0x5e7b4c9ebc50a713!8m2!3d-34.6454645!4d-59.4329173",
+        "TELEFONO": "-",
+        "Nº": "804"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "J.M.MADERAS S.H.",
+        "RAZON SOCIAL": "CHIAPUZZI MARIA C Y CILEY ELDA",
+        "CALLE": "CALLE 17 ENTRE 4 Y 6",
+        "localizacion": "https://www.google.com/maps/place/JM+Maderas/@-34.65979,-59.4309747,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xb03cc0de2b1311ab!8m2!3d-34.65979!4d-59.428786",
+        "TELEFONO": "2324-423641",
+        "Nº": "76"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "MADERAS KOPRUCH MERCEDES",
+        "RAZON SOCIAL": "INDUSTRIAL MADERERA KOPRUCH SA",
+        "CALLE": "ACCESO SUR ENTRE 112 Y 114",
+        "localizacion": "https://www.google.com/maps/place/MADERAS+KOPRUCH+.+Distribuidor+KNAUF/@-34.664879,-59.4413627,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc8e41ce010dd0089!8m2!3d-34.664879!4d-59.439174",
+        "TELEFONO": "2324-434664",
+        "Nº": "3414"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "CORRALON SAN PATRICIO SH",
+        "RAZON SOCIAL": "CORRALON SAN PATRICIO SH",
+        "CALLE": "CALLE 17",
+        "localizacion": "https://www.google.com/maps/place/Corralon/@-34.6572675,-59.4284666,19.42z/data=!4m5!3m4!1s0x0:0x98b88c63b665bd3f!8m2!3d-34.6575587!4d-59.4283061",
+        "TELEFONO": "-",
+        "Nº": "205"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "MADERAS ITATI",
+        "RAZON SOCIAL": "MARIA GABRIELA GRASSI",
+        "CALLE": "ACCESO SUR ENTRE 110 Y 112",
+        "localizacion":"https://www.google.com/maps/place/Maderas+Itati/@-34.6635348,-59.4405329,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc914696c5d8c09fa!8m2!3d-34.6635348!4d-59.4383442",
+        "TELEFONO": "2324-502382",
+        "Nº": "3272"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "MONTERO MADERAS",
+        "RAZON SOCIAL": "MONTERO EDUARDO SALVADOR",
+        "CALLE": "RUTA 5 KM 94 5",
+        "localizacion":"https://www.google.com/maps/place/Montero+Maderas/@-34.6592672,-59.3761516,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x67c2fef0b456c14f!8m2!3d-34.6592672!4d-59.3739629",
+        "TELEFONO": "2324-691751",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "CARPINTERIAS LOBOS",
+        "RAZON SOCIAL": "LOBOS  DANTE SEBASTIAN",
+        "CALLE": "CALLE 47",
+        "localizacion":"https://www.google.com/maps/place/C.+47+678,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6472675,-59.4436719,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc736f6ebc4019:0x2e20ba2e9a690ead!8m2!3d-34.6472675!4d-59.4414832",
+        "TELEFONO": "-",
+        "Nº": "678"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "MADERAS MERCEDES",
+        "RAZON SOCIAL": "RUBEN HARTWIG",
+        "CALLE": "AVENIDA 2 Y 107",
+        "localizacion":"https://www.google.com/maps/place/Maderas+Mercedes/@-34.6633594,-59.4188502,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc73ae6873bee7:0x494b9b3e73425a86!8m2!3d-34.6633594!4d-59.4166615",
+        "TELEFONO": "2324-422410",
+        "Nº": "3175"
+      },
+      {
+        "RUBRO": "MADERERAS",
+        "NOMBRE": "MADERERA LA ROTONDA",
+        "RAZON SOCIAL": "RUSSO CARLOS ALBERTO",
+        "CALLE": "CALLE 34 ENTRE 1 Y 103",
+        "localizacion":"https://www.google.com/maps/place/Maderera+la+Rotonda+de+Ruso+Carlos+Alberto/@-34.6489102,-59.4185955,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc57c1c16ee7648b7!8m2!3d-34.6489102!4d-59.4164068",
+        "TELEFONO": "2324-431066",
+        "Nº": "S/N"
+      },
+      {
+        "RUBRO": "REVESTIMIENTO",
+        "NOMBRE": "PLACAS SAN FRANCISCO",
+        "RAZON SOCIAL": "NOGUEROL    GERMAN ARIEL",
+        "CALLE": "CALLE 27 CASI ESQUINA 18 ",
+        "localizacion":"https://www.google.com/maps/place/Placas+San+Francisco+Mercedes/@-34.6530862,-59.4338981,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x124e6edbd51d443f!8m2!3d-34.653087!4d-59.431705",
+        "TELEFONO": "2324-435420",
+        "Nº": "409"
+      },
+      {
+        "RUBRO": "REVESTIMIENTO",
+        "NOMBRE": "CERAMICOS DONOFRIO",
+        "RAZON SOCIAL": "DONOFRIO ALEJANDRO GUSTAV",
+        "CALLE": "AVENIDA 1 Y 2",
+        "localizacion":"https://www.google.com/maps/place/Donofrio+Cer%C3%A1micos/@-34.663235,-59.4225183,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x33718c0109436f47!8m2!3d-34.663235!4d-59.4203296",
+        "TELEFONO": "2324-428883",
+        "Nº": "01"
+      },
+      {
+        "RUBRO": "REVESTIMIENTO",
+        "NOMBRE": "PREMOLDEADOS Y BORDES ATE",
+        "RAZON SOCIAL": "ABOITIZ JONATAN DAVID",
+        "CALLE": "CALLE 14",
+        "localizacion":"https://www.google.com/maps/place/C.+14+27,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6575015,-59.4218327,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc73a43230e733:0x9e928f2c31530be6!8m2!3d-34.6575015!4d-59.419644",
+        "TELEFONO": "-",
+        "Nº": "27"
+      },
+      {
+        "RUBRO": "REVESTIMIENTO",
+        "NOMBRE": "MARMOLERIA DELUCA",
+        "RAZON SOCIAL": "DELUCA RAUL OSCAR",
+        "CALLE": "CALLE 30",
+        "localizacion":"https://www.google.com/maps/place/Marmoleria+Deluca/@-34.6498097,-59.4272986,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa2bf7caae2d696db!8m2!3d-34.6498097!4d-59.4251099",
+        "TELEFONO": "2324-478432",
+        "Nº": "356"
+      },
+      {
+        "RUBRO": "AMOBLAMIENTOS",
+        "NOMBRE": "AMOBLAMIENTOS BETTO",
+        "RAZON SOCIAL": "CAMARGO    NORBERTO RAUL",
+        "CALLE": "CALLE 103",
+        "localizacion":"https://www.google.com/maps/place/C.+103+347,+Mercedes,+Provincia+de+Buenos+Aires/@-34.6568539,-59.417457,17z/data=!3m1!4b1!4m5!3m4!1s0x95bc73a5261f1511:0xbc2798c0797bb47a!8m2!3d-34.6568539!4d-59.4152683",
+        "TELEFONO": "2324-693198",
+        "Nº": "347"
+      },
+      {
+        "RUBRO": "CERRAJERIA",
+        "NOMBRE": "CERRAJERIA LAFFORGUE",
+        "RAZON SOCIAL": "LAFFORGUE CARLOS HERNAN",
+        "CALLE": "CALLE 14 ENTRE 21 Y 23",
+        "localizacion":"https://www.google.com/maps/place/Cerrajer%C3%ADa+Lafforgue/@-34.6555526,-59.4325378,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x835229517b8757bc!8m2!3d-34.6555526!4d-59.4303491",
+        "TELEFONO": "2324-557404",
+        "Nº": "537"
+      },
+      {
+        "RUBRO": "CERRAJERIA",
+        "NOMBRE": "HERRAJES PETROCELLI S.A.",
+        "RAZON SOCIAL": "PETROCELLI S.A.",
+        "CALLE": "CALLE 18 ENTRE 27 Y 25",
+        "TELEFONO": "2324-425217",
+        "localizacion":"https://www.google.com/maps/place/Herrajes+Petrocelli/@-34.6545429,-59.4340717,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xadfd5b6bd51b5e7e!8m2!3d-34.6545429!4d-59.431883",
+        "Nº": "00338"
+      }
+    ]
+  }
